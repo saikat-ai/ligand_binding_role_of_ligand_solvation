@@ -1,1 +1,1 @@
-This is the repository for the manuscript titled "Learning Transferable Collective Variable to accelerate Protein-Ligand (Un)Binding 
+This is the repository for the manuscript titled "Learning Transferable Collective Variable to accelerate Protein-Ligand (Un)Binding Transitions via Explainable Machine learning: Intriguing role Ligand Solvation
